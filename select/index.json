@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "キケンナアソビ",
+  "base_artist": "WurtS",
+  "createdAt": "2025-12-16T16:14:54.718704Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キケンナアソビ",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/01_キケンナアソビ_Creep_Hyp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キケンナアソビ - Kikenna Asobi",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/02_キケンナアソビ_-_Kikenna_Asobi_CreepHyp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キケンナアソビ",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/03_キケンナアソビ_WurtS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キケンナアソビ",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/04_キケンナアソビ_Creep_Hyp.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キケンナアソビ",
+      "artist": "クリープハイプ",
+      "has_synced": true,
+      "path": "select/05_キケンナアソビ_クリープハイプ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キケンナアソビ",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/06_キケンナアソビ_CreepHyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キケンナアソビ",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_キケンナアソビ_WurtS.txt"
+    }
+  ]
+}
